@@ -1,4 +1,4 @@
-# Inferring Reward-Punishment Sensitivity from Users' Behavior via Online Learning in Digital Behavior Change Systems
+# Reward-Punishment Sensitivity Inference from Users' Behavior via Online Learning
 
 Replication materials for the paper submitted to **IEEE/WIC WI-IAT 2026**.
 
