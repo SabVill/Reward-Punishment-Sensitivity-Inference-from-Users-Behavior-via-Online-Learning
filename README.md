@@ -30,7 +30,6 @@ The simulation environment models a physical activity behavior change scenario (
 ├── table2_bandit_g02.xlsx                   # Table II: bandit parameters log(α/β), punishment-sensitive user
 ├── table3_mean_values.xlsx                  # Table III: mean learned values aggregated by group (RL and MAB)
 ├── table4_aggregate_metrics.xlsx            # Table IV: convergence metrics across 20 runs
-├── table4_convergence.xlsx                  # Table IV (alternative format)
 ├── figure1_single_user_dynamics.png         # Figure 1: single-user learning dynamics (MAB and RL)
 └── figure2_avg_step_trends.png              # Figure 2: average daily step trends across approaches
 ```
@@ -85,7 +84,7 @@ Step history distributional parameters are grounded in the [PMData dataset](http
 
 ## Key Results
 
-### RQ1 — Sensitivity Inference (Table III, Table IV)
+### RQ1 — Sensitivity Inference (Table III)
 
 Both algorithms successfully infer users' latent reward-punishment sensitivity from behavioral outcomes alone, with no self-report or prior knowledge:
 
