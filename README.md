@@ -12,7 +12,7 @@ Two online learning algorithms are implemented and compared:
 
 - **Q-Learning** (Reinforcement Learning) with outcome-guided ε-greedy exploration
 - **Thompson Sampling** (Multi-Armed Bandit) with Beta-Bernoulli arms
-- **Random baseline** — non-adaptive reference condition
+- **Random baseline** non-adaptive reference condition
 
 The simulation environment models a physical activity behavior change scenario (daily step counts) over 100 days, with a population of 30 users divided into reward-sensitive (Group 1) and punishment-sensitive (Group 2) profiles.
 
