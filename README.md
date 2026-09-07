@@ -1,6 +1,6 @@
 # Reward-Punishment Sensitivity Inference from Users' Behavior via Online Learning
 
-Replication materials for the paper submitted to **IEEE/WIC WI-IAT 2026**.
+Replication materials for the paper accepted at **IEEE/WIC WI-IAT 2026** (short paper).
 
 ---
 
@@ -119,7 +119,7 @@ Users' latent sensitivity is never observed directly; it is inferred from the st
 
 ## License
 
-The code and data in this repository are released for research and reproducibility purposes.
+This paper has been accepted for publication at the **IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT) 2026** (short paper). The full citation and BibTeX entry will be added once the camera-ready proceedings and DOI are available.
 
 ---
 
