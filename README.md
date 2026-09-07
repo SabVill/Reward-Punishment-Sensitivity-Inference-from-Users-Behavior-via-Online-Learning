@@ -117,12 +117,6 @@ Users' latent sensitivity is never observed directly; it is inferred from the st
 
 ---
 
-## License
-
-This paper has been accepted for publication at the **IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT) 2026** (short paper). The full citation and BibTeX entry will be added once the camera-ready proceedings and DOI are available.
-
----
-
 ## Citation
 
-If you use this code or data, please cite the paper once it is published. The BibTeX entry will be added upon acceptance.
+This paper has been accepted for publication at the **IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT) 2026** (short paper). The full citation and BibTeX entry will be added once the camera-ready proceedings and DOI are available.
